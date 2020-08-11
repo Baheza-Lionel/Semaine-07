@@ -173,7 +173,7 @@ color:#FF847C  ;
 .étude{
   position: relative;
   top:-20px;
-  left: 150px;
+  left: 100px;
   font-family: "lemonada";
   font-size: large;
 }
@@ -184,22 +184,22 @@ h3{
 }
 .formulaire{
 background-color: #616097;
-  width: 600px;
-  height: 600px;
+  width: 500px;
+  height: 500px;
   border-radius: 45px;
   border:#FF847C solid 2px;
   position: relative;
-  top:-50px;
+  top:-40px;
   left: 500px;
 }
 textarea{
   color: #616097;
   border-radius: 20px;
   border: #FF847C solid 2px;
-  font-size: large;
+  font-size: small;
   font-family: "lemonada";
   position: relative;
-  left: 150px;
+  left: 120px;
 }
 
 button{
@@ -210,8 +210,8 @@ button{
   border: thistle solid 2px;
   border-radius: 25px;
   position: relative;
-  top:80px;
-  right: 70px;
+  top:50px;
+  right: 80px;
 }
 input{
   display: flex;
@@ -221,13 +221,13 @@ input{
   margin:3%;
   padding: 2%;
   position: relative;
-  left:150px;
+  left:120px;
 }
 .frame{
   width:450px;
   height: 250px;
-  margin:10px;
-  padding: 5px;
+  margin:2px;
+  padding: 2px;
   position: relative;
   bottom: 35px;
 }
@@ -236,7 +236,7 @@ p{
   left:800px;
   bottom:550px;
   color: #0F4C75;
-  font-size: xx-large;
+  font-size: x-large;
   font-family: "lemonada";
 }
 
