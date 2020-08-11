@@ -1,0 +1,248 @@
+body{
+  width:1920px;
+  height:1080px;
+  color:#0F4C75;
+  overflow: hidden;
+}
+
+#picture{
+  width: 205px;
+  height: 205px;
+  border-radius: 100%;
+  border:palevioletred solid 10px;
+  text-align: center;
+position: relative;
+left: 50px;
+}
+.second-container{
+  display: grid;
+  grid-template-columns: 40% 40%;
+}
+
+.description{
+  color:#0F4C75;
+  font-family: "lemonada";
+  font-size: medium;
+}
+#greeting{
+  color:#0F4C75;
+  font-weight: bold;
+  font-size: xx-large;
+  font-family:"lemonada";
+  font-size: x-large;
+  position: relative;
+  right:300px;
+  top:50px;
+}
+#presentation-name{
+  color:#0F4C75;
+  font-weight:bolder ;
+  font-size: medium;
+  font-family:"lemonada";
+  font-size: medium;
+  position: relative;
+  right:300px;
+  top:60px;
+}
+#my-work{
+  color: #0F4C75;
+  font-size: medium;
+  font-family:"lemonada";
+  font-size: medium;
+  position: relative;
+right: 300px;
+top:90px;
+}
+#about-me{
+  color: #0F4C75;
+font-family:"lemonada";
+font-size: medium;
+position: relative;
+right: 300px;
+top:100px;
+}
+.contact{
+  color:#D54062;
+  font-family:"lemonada" ;
+  font-weight: bold;
+  font-size:x-large;
+position: relative;
+  top:120px;
+}
+#logo{
+  width: 80px;
+  height: 80px;
+}
+.nav a{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  font-family:"lemonada";
+  position: relative;
+  left: 250px;
+  bottom:40px ;
+  font-size: x-large;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 40px;
+  font-family:"lemonada";
+  position: relative;
+  left:500px;
+  bottom:20px;
+}
+.a{
+  color:#0F4C75;
+}
+.nav a:hover{
+  color: #FF847C;
+}
+footer{
+  background-color: #FF847C ;
+  width: 1920px;
+  height: 50px;
+  position:relative;
+  top:245px;
+}
+span{
+  color: #0F4C75;
+  font-weight:bolder ;
+  font-size: x-large;
+  font-family: "lemonada";
+  position: relative;
+  left:50px
+}
+
+#logo-linkedin{
+  width: 30px;
+  height: 20px;
+  position: relative;
+  left:905px;
+  top:4px;
+}
+#logo-mail{
+  width:30px ;
+  height: 20px;
+  position: relative;
+  left: 1050px;
+  top:4px;
+}
+.my-linkedin-page a:hover{
+color:#FF847C ;
+}
+.my-linkedin-page{
+  font-family:"lemonada";
+  position: relative;
+  left:900px;
+}
+
+.my-email a:hover{
+color:#FF847C  ;
+}
+.my-email{
+  font-family:"lemonada";
+  position: relative;
+  left:1000px;
+}
+
+
+.expérience{
+  position: relative;
+  top:-30px;
+  left:100px ;
+  font-family: "lemonada";
+  font-size: large;
+}
+.compétence{
+  position: relative;
+  top:-30px;
+  left:150px;
+  font-family: "lemonada";
+  font-size: large;
+}
+.intérêt{
+  position: relative;
+  top:-20px;
+  left:100px;
+  font-family: "lemonada";
+  font-size:large;
+}
+.étude{
+  position: relative;
+  top:-20px;
+  left: 150px;
+  font-family: "lemonada";
+  font-size: large;
+}
+h3{
+  color:#D54062 ;
+  font-size: large;
+  font-weight: bold;
+}
+.formulaire{
+background-color: #616097;
+  width: 600px;
+  height: 600px;
+  border-radius: 45px;
+  border:#FF847C solid 2px;
+  position: relative;
+  top:-50px;
+  left: 500px;
+}
+textarea{
+  color: #616097;
+  border-radius: 20px;
+  border: #FF847C solid 2px;
+  font-size: large;
+  font-family: "lemonada";
+  position: relative;
+  left: 150px;
+}
+
+button{
+  background-color:#D54062;
+  color: antiquewhite;
+  width:150px ;
+  height:50px ;
+  border: thistle solid 2px;
+  border-radius: 25px;
+  position: relative;
+  top:80px;
+  right: 70px;
+}
+input{
+  display: flex;
+  flex-direction: column;
+  border: #FF847C solid;
+  border-radius: 25px;
+  margin:3%;
+  padding: 2%;
+  position: relative;
+  left:150px;
+}
+.frame{
+  width:450px;
+  height: 250px;
+  margin:10px;
+  padding: 5px;
+  position: relative;
+  bottom: 35px;
+}
+p{
+  position: relative;
+  left:800px;
+  bottom:550px;
+  color: #0F4C75;
+  font-size: xx-large;
+  font-family: "lemonada";
+}
+
+
+
+
+
+
+
