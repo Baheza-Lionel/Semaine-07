@@ -69,6 +69,7 @@ top:100px;
   font-size:x-large;
 position: relative;
   top:120px;
+  text-decoration: none;
 }
 #logo{
   width: 80px;
@@ -86,6 +87,7 @@ position: relative;
   left: 250px;
   bottom:40px ;
   font-size: x-large;
+  text-decoration:none ;
 }
 .nav{
   display: flex;
@@ -96,6 +98,7 @@ position: relative;
   position: relative;
   left:500px;
   bottom:20px;
+  text-decoration: none;
 }
 .a{
   color:#0F4C75;
