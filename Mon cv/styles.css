@@ -243,7 +243,137 @@ p{
   font-family: "lemonada";
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    background-color:white;
 
+  }
+
+  #greeting{
+    position:relative;
+    left:15px;
+    top:2px;
+  }
+  #presentation-name{
+  position: relative;
+  left:15px;
+  top:2px;
+}
+  #my-work{
+    position: relative;
+    left:15px;
+    top:2px;
+    font-size:xx-small ;
+  }
+
+  #about-me{
+    position: relative;
+    left:15px;
+    top:2px;
+    font-size: xx-small;
+
+  }
+  .contact{
+    position: relative;
+    left:95px;
+    top:2px;
+    font-size:large ;
+
+  }
+span{
+position: static;
+font-size: x-small;
+}
+.my-linkedin-page{
+position: static;
+font-size: x-small;
+
+}
+.my-email{
+position: relative;
+left: 30px;
+font-size: x-small;
+
+}
+
+  .second-container{
+    display:grid;
+    grid-template-columns: 100%;
+
+  }
+  p{
+    position: static;
+    font-size: xx-small;
+  }
+  .nav a{
+    display: block;
+    font-size: x-small;
+    text-decoration: none;
+  }
+.nav {
+display: block;
+font-size: x-small;
+text-decoration: none;
+position: static;
+
+}
+#logo-linkedin{
+position: relative;
+left: 25px;
+
+}
+#logo-mail{
+position:relative;
+left:80px;
+width: 20px;
+}
+
+.expérience{
+position: static;
+font-size: xx-small;
+}
+.compétence{
+position: static;
+font-size: xx-small;
+}
+.étude{
+position: static;
+font-size: xx-small;
+}
+.intérêt{
+position: static;
+font-size: xx-small;
+}
+
+.frame{
+position: static;
+height: inherit;
+width: 250px;
+}
+
+.formulaire{
+position: static;
+width: 250px;
+height: 250px;
+border-radius: 25px;
+}
+button{
+position: relative;
+left: 55px;
+top:2px;
+
+}
+input{
+position: static;
+}
+textarea{
+position: static;
+width:240px ;
+height: 80px;
+}
+
+
+}
 
 
 
